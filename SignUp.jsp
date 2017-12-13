@@ -1,8 +1,4 @@
-<%-- 
-    Document   : SignUp
-    Created on : May 29, 2017, 6:24:11 PM
-    Author     : iamsu
---%>
+
 //JSTL
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
