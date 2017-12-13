@@ -1,8 +1,4 @@
-<%-- 
-    Document   : productDetails
-    Created on : Jun 19, 2017, 6:18:12 PM
-    Author     : iamsu
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@include  file="header.jsp"%>
