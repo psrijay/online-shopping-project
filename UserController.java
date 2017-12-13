@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 package com.onlineshopping.controller;
 
@@ -30,10 +26,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author iamsu
- */
+
 @WebServlet(name = "UserController", urlPatterns = {"/User"})
 public class UserController extends HttpServlet {
 
