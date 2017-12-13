@@ -13,10 +13,6 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author iamsu
- */
 public class CategoryDAOImpl implements CategoryDAO{
 
     DataSource ds=new DataSource();
