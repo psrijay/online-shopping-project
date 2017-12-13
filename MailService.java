@@ -18,10 +18,7 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-/**
- *
- * @author iamsu
- */
+
 public class MailService {
     
     public boolean verifyMail(String toMail,String userName) throws SQLException{
