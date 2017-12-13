@@ -1,9 +1,5 @@
 <%@taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
-<%-- 
-    Document   : ViewProducts
-    Created on : Jun 23, 2017, 6:26:36 PM
-    Author     : iamsu
---%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
