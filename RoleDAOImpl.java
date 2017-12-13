@@ -11,10 +11,6 @@ import com.onlineshopping.db.DataSource;
 import com.onlineshopping.model.Role;
 import java.sql.ResultSet;
 
-/**
- *
- * @author iamsu
- */
 public class RoleDAOImpl implements RoleDAO{
     
     DataSource ds=new DataSource();
