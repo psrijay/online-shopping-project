@@ -10,10 +10,6 @@ import java.sql.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author iamsu
- */
 public class DataSource {
     private Connection con;
     private PreparedStatement st;
