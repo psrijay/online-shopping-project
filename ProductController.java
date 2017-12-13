@@ -23,10 +23,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author iamsu
- */
+
 @WebServlet(name = "ProductController", urlPatterns = {"/Product"})
 public class ProductController extends HttpServlet {
 
