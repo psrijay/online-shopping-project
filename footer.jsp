@@ -1,8 +1,4 @@
-<%-- 
-    Document   : footer
-    Created on : May 23, 2017, 6:51:30 PM
-    Author     : iamsu
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
