@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Manage
-    Created on : Jun 22, 2017, 6:47:56 PM
-    Author     : iamsu
---%>
+
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
