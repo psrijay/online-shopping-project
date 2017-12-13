@@ -14,10 +14,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author iamsu
- */
+
 public class ProductDAOImpl implements ProductDAO{
     
     DataSource ds=new DataSource();
