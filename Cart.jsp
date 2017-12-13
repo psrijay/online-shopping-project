@@ -1,9 +1,5 @@
 <%@taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
-<%-- 
-    Document   : Cart
-    Created on : May 3, 2017, 4:32:05 PM
-    Author     : iamsu
---%>
+
 
 <%@include file="header.jsp" %>
 <c:if test="${empty user}">
