@@ -1,8 +1,4 @@
-<%-- 
-    Document   : logout
-    Created on : Jun 2, 2017, 6:35:11 PM
-    Author     : iamsu
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
