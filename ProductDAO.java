@@ -10,10 +10,6 @@ import com.onlineshopping.model.Category;
 import com.onlineshopping.model.Product;
 import java.util.List;
 
-/**
- *
- * @author iamsu
- */
 public interface ProductDAO {
     public void create(Product c);
     public Product read(Product c);
