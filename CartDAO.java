@@ -11,10 +11,7 @@ import com.onlineshopping.model.Cart;
 import com.onlineshopping.model.CartItem;
 import java.util.Set;
 
-/**
- *
- * @author iamsu
- */
+
 public interface CartDAO {
     public Cart create(Cart c);
     public void add(Cart c);
