@@ -7,10 +7,7 @@
 package com.onlineshopping.model;
 
 
-/**
- *
- * @author iamsu
- */
+
 public class Product{
     private int id;
     private String name;
