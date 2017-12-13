@@ -1,8 +1,4 @@
-<%-- 
-    Document   : newjsp
-    Created on : Jun 11, 2017, 12:48:46 PM
-    Author     : iamsu
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
