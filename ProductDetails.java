@@ -8,10 +8,7 @@ package com.onlineshopping.model;
 
 import java.sql.Date;
 
-/**
- *
- * @author iamsu
- */
+
 public class ProductDetails {
     private long serialNumber;
     private int productId;
