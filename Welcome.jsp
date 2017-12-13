@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Welcome
-    Created on : Jun 2, 2017, 6:15:07 PM
-    Author     : iamsu
---%>
+
 
 <%@page import="com.onlineshopping.model.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
