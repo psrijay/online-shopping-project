@@ -15,10 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.sql.DataSource;
 
-/**
- *
- * @author iamsu
- */
+
 public class DataConnector implements DataSource{
 
     @Override
