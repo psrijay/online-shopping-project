@@ -11,10 +11,7 @@ import com.onlineshopping.model.Product;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- *
- * @author iamsu
- */
+
 public interface ProductDetailsDAO {
     public void create(ProductDetails p);
     public ProductDetails read(ProductDetails p);
